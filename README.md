@@ -27,7 +27,7 @@ Aktuell arbeite ich als Head of IT bei der [Werksarztzentrum Deutschland GmbH](h
 
 ## 🤝 Lass uns vernetzen!
 
-Du findest mich auf [LinkedIn](https://www.linkedin.com/in/stefan-riedel-8aab6260/), wo ich gerne über moderne Softwareentwicklung, Architektur-Patterns und Leadership-Themen diskutiere.
+Du findest mich auf [LinkedIn](https://www.linkedin.com/in/stefan-riedel-lava83/), wo ich gerne über moderne Softwareentwicklung, Architektur-Patterns und Leadership-Themen diskutiere.
 
 ---
 
